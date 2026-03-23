@@ -2,7 +2,7 @@
 
 ## A Platform for Causal Discovery, Intervention Analysis, Counterfactual Reasoning, and Policy Optimization
 
-- Guided by Dr. R.J. Mohan Sahu and Developed by Satya Narayan Sahu
+- Guided by Dr. R. Saibal Kumar Sahu, and Planned & Developed by Satya Narayan Sahu
 
 ---
 
