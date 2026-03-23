@@ -1,0 +1,12 @@
+{
+  "css.validate": false,
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "typescript.tsdk": "frontend/node_modules/typescript",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
