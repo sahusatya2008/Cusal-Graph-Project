@@ -3013,6 +3013,3 @@ Special thanks to the open-source community for developing the tools and librari
 
 ---
 
-*Last updated: February 2026*
-*Version: 1.0*
-+++++++ REPLACE</task_progress>
